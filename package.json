@@ -1,0 +1,19 @@
+{
+  "name": "apex",
+  "version": "0.0.1",
+  "description": "Work In Progress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dillonkrug/apex.git"
+  },
+  "author": "Dillon Krug",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dillonkrug/apex/issues"
+  },
+  "homepage": "https://github.com/dillonkrug/apex"
+}
