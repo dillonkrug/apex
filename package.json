@@ -1,6 +1,6 @@
 {
   "name": "apex",
-  "version": "0.0.1-beta",
+  "version": "0.0.1",
   "description": "Work In Progress",
   "main": "index.js",
   "scripts": {
