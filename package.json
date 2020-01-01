@@ -1,12 +1,12 @@
 {
   "name": "apex",
-  "version": "0.0.1-beta3",
+  "version": "0.1.0",
   "description": "Work In Progress",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "babel ./src -s --copy-files --out-dir ./build",
-	"prepublish": "npm run build"
+    "prepublish": "npm run build"
   },
   "repository": {
     "type": "git",
