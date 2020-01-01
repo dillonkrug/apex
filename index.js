@@ -1,1 +1,1 @@
-module.exports = require('./src/apex')
+module.exports = require('./build/apex');
