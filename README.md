@@ -5,21 +5,25 @@ a library for building things
 
 ## apex/schema
 
+```
+import { Schema } from 'apex/schema';
+```
+
 Methods:
 
-`validate (schema, data)`
+`Schema.validate(schema, data)`
 
 validates data against the given schema
 
-`getPath(schema, data, path)`
+`Schema.getPath(schema, data, path)`
 
 returns { schema, value } for the given 'path'
 
-`get(schema, data, path)`
+`Schema.get(schema, data, path)`
 
 returns the nested value at 'path'
 
-`set (schema, data, path, value)`
+`Schema.set (schema, data, path, value)`
 
 sets the nested value at 'path'
 
